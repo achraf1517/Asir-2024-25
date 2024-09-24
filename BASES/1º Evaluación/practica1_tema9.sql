@@ -22,6 +22,31 @@ VISTA_EMPLEADOS?
 |   7654 | MARTIN   | VENDEDOR | 1500.00 |     30 |
 +--------+----------+----------+---------+--------+
 
+3. Crear una vista llamada EMPLEADOS_TODOS que almacene los campos EMP_NO, 
+APELLIDO y OFICIO de la tabla EMPLEADOS y los campos DNOMBRE y 
+LOCALIDAD de la tabla DEPARTAMENTOS.  Ordenada alfabeticamente por APELLIDO.
+
+create view EMPLEADOS_TODOS as 
+select e.emp_no, e.apellido, e.oficio, d.nombre, d.localidad
+from empleados e, departamentos d
+where e.dep_no = d.dep_no
+order by e.apellido;
+
+5. Crear una vista llamada EMPLEADOS_MADRID que almacene los campos EMP_NO,
+APELLIDO   y   OFICIO   de   la   tabla   EMPLEADOS   y   los   campos   DNOMBRE   y
+LOCALIDAD de la tabla DEPARTAMENTOS, únicamente de aquellos empleados que son
+de MADRID. Ordenada alfabeticamente por APELLIDO.
+
+create view EMPLEADOS_TODOS as 
+select e.emp_no, e.apellido, e.oficio, d.nombre, d.localidad
+from empleados e, departamentos d
+where e.dep_no = d.dep_no
+and d.localidad = 'Madrid'
+order by e.apellido;
+
+
+6. ¿Cuál   es   el   resultado   de   la   ejecución   de   esta   sentencia           SELECT   *   FROM
+EMPLEADOS_MADRID?
 
 9. Borra de la tabla EMPLEADOS a todos aquellos empleados cuyo oficio sea vendedor,
 empleado o analista. Obligatoriamente debes trabajar a prueba de fallos, y cuando ya te
