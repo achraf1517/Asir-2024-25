@@ -122,6 +122,7 @@ del ejercicio 14. Si has contestado que no, explica por qué.
 explica por qué y borra otra u otras tablas (las mínimas posibles), si es neceario, hasta que
 consigas borrar de forma permanente la tabla EMPLEADOS. No debes borrar ninguna vista.
 
+Drop table empleados;
 
 19. Después de realizar el ejercicio 18 muestra las tablas de la Base de Datos (BD) “curso”, a
 través del comando SQL correspondiente. Escribe el nombre de cada una de las tablas que
