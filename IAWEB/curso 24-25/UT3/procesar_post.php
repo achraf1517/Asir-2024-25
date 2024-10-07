@@ -7,7 +7,8 @@
  <body>
     <?php 
     //datos de entrada
-    $lado = $_POST ['lado']
+    $lado = $_POST ['lado'];
+    
     //procesar los datos de entrada 
     //para ibtener resultados
 
