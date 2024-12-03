@@ -1,3 +1,12 @@
+
+
+8. Programar un script en PHP que permita mostrar si hubo o no algún producto con precios
+superiores a 3 euros. Si hay algún producto muestra el siguiente mensaje: 
+"Hay algún producto con precios superiores a 3 euros" y sino hay ninguno muestra el siguiente mensaje
+"No hay ningún producto con precios superiores a 3 euros". Obligatoriamente debes utilizar
+una variable de tipo boolean.
+
+
 <html>
 
 <head>

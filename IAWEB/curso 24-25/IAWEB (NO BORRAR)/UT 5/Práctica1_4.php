@@ -1,3 +1,8 @@
+
+4. Programar un script en PHP que permita obtener y mostrar la nota más alta obtenida por los
+alumnos de 1º ASIR en GBD. Debes hacerlo de dos formas: con el bucle for y con bucle
+foreach.
+
 <html>
 
 <head>

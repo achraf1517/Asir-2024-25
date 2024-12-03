@@ -1,3 +1,11 @@
+
+
+6. Programar un script en PHP que permita mostrar si hubo o no algún alumno con una nota de
+10 en GBD de 1º ASIR. Obligatoriamente debes trabajar con una variable de tipo boolean
+(que tome los valores true o false). Debes hacerlo de dos formas: con el bucle for y con
+bucle foreach.
+
+
 <html>
 
 <head>

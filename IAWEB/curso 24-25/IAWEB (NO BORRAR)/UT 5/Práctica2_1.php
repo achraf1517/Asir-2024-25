@@ -1,3 +1,7 @@
+
+1. Programar un script en PHP que permita contar y mostrar el número 
+de productos con precios superiores e iguales a 2.5 euros.
+
 <html>
 
 <head>

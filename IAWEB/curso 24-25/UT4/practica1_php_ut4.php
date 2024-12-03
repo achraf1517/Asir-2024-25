@@ -2,7 +2,7 @@
 //Ejercicio 1://
 
  $numero=5;
- if ($numero<10){
+ if ($numero<10 ){
 $numero=$numero/2;
  }
  echo " \$numero = $numero";

@@ -1,3 +1,8 @@
+
+13. Programar un script en PHP que permita mostrar si hay o no “sal”. Si hay “sal” muestra el
+siguiente mensaje: "Hay sal y su precio es xxx.dd euros" y sino hay muestra el siguiente
+mensaje "No hay sal". Obligatoriamente debes utilizar una variable de tipo boolean.
+
 <html>
 
 <head>

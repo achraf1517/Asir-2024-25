@@ -1,3 +1,8 @@
+
+
+2. Programar un script en PHP que permita calcular y mostrar el porcentaje de productos entre
+0.6 y 2.1 euros.
+
 <html>
 
 <head>

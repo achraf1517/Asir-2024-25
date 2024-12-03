@@ -1,3 +1,10 @@
+
+
+
+
+3.Programar un script en PHP que permita calcular y mostrar la nota media de los alumnos de
+1º ASIR en GBD. Debes hacerlo de dos formas: con el bucle for y con bucle foreach.
+
 <html>
 
 <head>
