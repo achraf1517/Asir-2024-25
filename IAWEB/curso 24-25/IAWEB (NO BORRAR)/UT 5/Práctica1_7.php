@@ -1,11 +1,3 @@
-
-
-
-7.Programar un script en PHP que permita calcular y mostrar el porcentaje de notas inferiores
-a 3 de los alumnos de 1º ASIR en GBD. Debes hacerlo de dos formas: con el bucle for y con
-bucle foreach.
-
-
 <html>
 
 <head>
