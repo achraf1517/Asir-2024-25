@@ -1,7 +1,3 @@
-
-5. Programar un script en PHP que permita calcular y mostrar el porcentaje de productos con
-precios superiores o iguales al precio medio.
-
 <html>
 
 <head>

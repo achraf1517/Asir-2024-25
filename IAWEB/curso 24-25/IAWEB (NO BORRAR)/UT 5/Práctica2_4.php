@@ -1,8 +1,3 @@
-
-
-4. Programar un script en PHP que permita calcular y mostrar el precio medio de los productos.
-
-
 <html>
 
 <head>

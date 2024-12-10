@@ -1,9 +1,3 @@
-
-
-12. Programar un script en PHP que permita calcular y mostrar el precio 
-del producto más barato. Y el nombre de todos los productos con dicho precio.
-
-
 <html>
 
 <head>

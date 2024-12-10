@@ -1,8 +1,3 @@
-
-
-6.Programar un script en PHP que permita calcular y mostrar el precio del producto más caro.
-
-
 <html>
 
 <head>
